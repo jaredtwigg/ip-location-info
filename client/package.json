@@ -1,5 +1,5 @@
 {
-  "name": "ip-location-info",
+  "name": "ip-location-tool",
   "version": "0.1.0",
   "proxy": "http://localhost:5050",
   "private": true,
