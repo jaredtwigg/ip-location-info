@@ -1,6 +1,6 @@
 # IP Lookup Tool
 
-This is a simple React app with an Express backend for looking up IP4 address details using the MaxMind geoip2 API.
+A simple React app with an Express backend for looking up IP4 address details using the MaxMind geoip2 API.
 
 Currenty it returns the longitude, latitude, and timezone for any given valid IP4 address.
 
